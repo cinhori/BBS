@@ -1,5 +1,5 @@
-<%@page import="com.bbs.control.inter.ArticleInter"%>
-<%@page import="com.bbs.control.impl.ArticleImpl"%>
+<%@page import=" com.bbs.control.inter.ArticleInter"%>
+<%@page import=" com.bbs.control.impl.ArticleImpl"%>
 <%@ page language="java"
 	import="java.util.*,com.bbs.bean.*,javax.swing.*,java.text.SimpleDateFormat"
 	pageEncoding="UTF-8"%>

@@ -1,5 +1,5 @@
 <%@ page language="java"
-	import="java.util.*,com.bbs.bean.*,javax.swing.*,java.text.SimpleDateFormat"
+	import="java.util.*, com.bbs.bean.*,javax.swing.*,java.text.SimpleDateFormat"
 	pageEncoding="UTF-8"%>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <%
